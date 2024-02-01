@@ -1,5 +1,5 @@
 # equialtrcfgr
-Equivalent transformations of content-free grammars by program method
+Equivalent transformations of content-free grammars by program method / Эквивалентные преобразования КС-грамматик программным методом
 
 Equivalent transformations of content-free grammars by program method.
 Task: 
